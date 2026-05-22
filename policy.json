@@ -1,0 +1,5 @@
+{
+    "AllowedSerials": [19646323],
+    "RequiredInvalidTicks": 3,
+    "RequireAtLeastOneDevice": true
+}
